@@ -1,4 +1,4 @@
-- 👋 oi, eu estou @chrispazalves sou terapeuta e artista 
+👋 oi, eu estou @chrispazalves sou terapeuta e artista 
 - 👀 meus interesses o que estou sempre de olho arte terapia e mandalas
 - 🌱 sempre estou me desenvolvendo e estudando significado de arquétipos do inconsciente coletivo e compreensão no inconsciente pessoal 
 - 💞️ I’m looking to collaborate on interpretação de sonhos e compreensão de imagens 
@@ -14,8 +14,8 @@
 - 💹 analista questionadora e provocante
 - 🕸️ divertida e curiosa
 - 📖 amo ler 
-- 
-
+- 💃 amo danca do ventre
+- 🦋 transformação é meu lema
 <!---
 chrispazalves/chrispazalves is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
